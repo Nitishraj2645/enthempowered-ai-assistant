@@ -1,0 +1,14 @@
+{
+  "name": "Remix Rishu AI Assistant",
+  "description": "A realistic 3D interactive AI girlfriend assistant with live camera vision and voice interaction powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "voice_interaction",
+    "real_time_ai",
+    "function_calling",
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
